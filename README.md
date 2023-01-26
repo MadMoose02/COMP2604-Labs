@@ -2,6 +2,7 @@
 Here be all the C projects and source files for my COMP 2604 Operating Systems course. All example files will use the following format:
 
 -C-source files - **sample_source.c**
+
 -Executable binary files - **sample_bin** (no extension)
 
 ## Compilation on Unix
